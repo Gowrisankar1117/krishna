@@ -3,6 +3,8 @@ hello
 how r u 
 int a=10,b=30;
 scan{a & b}
+not dscan yar yap mey girl ho gaya body twinkle twinkle little start havvayam vantam arokaya butvthe prabas
+
 printf ("a and b")
 we are from linux background and we did lot45: of functions
 in linux operating system
